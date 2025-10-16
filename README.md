@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
+  <img height = "150" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsZHZuZnhrajdqbTA4MW1tdXJhYzc2am4ydDhsYWM0cHZ5ZWZnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 <h1 align="center">Hi 👋, I'm Sahin Akhtar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
