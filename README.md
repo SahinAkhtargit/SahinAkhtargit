@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahin Akhtar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<h4 align="center">Tech enthusiast adept at problem-solving and innovation. Let's make waves in the digital realm together.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahinakhtargit&label=Profile%20views&color=0e75b6&style=flat" alt="sahinakhtargit" /> </p>
 
