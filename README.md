@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahinakhtargit&label=Profile%20views&color=0e75b6&style=flat" alt="sahinakhtargit" /> </p>
 
-- 🔭 I’m working As **Software Engineer at xLayer Technologies Pvt Ltd.**
+- 🔭 I’m working As ** IT Executive at Qubix Medicare Pvt Ltd.**
   
 - 🔭 I’m currently working on **Textile Management System using Frappe**
 
